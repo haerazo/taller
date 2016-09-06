@@ -239,7 +239,4 @@ public VentanaColor(ClaseObservador observador){
     }
     
     
-    public void gilear(){
-        
-    }
 }
