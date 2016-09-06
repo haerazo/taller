@@ -237,4 +237,9 @@ public VentanaColor(ClaseObservador observador){
             case 4:RadRojo.setSelected(true);break;
         }   
     }
+    
+    
+    public void gilear(){
+        
+    }
 }
