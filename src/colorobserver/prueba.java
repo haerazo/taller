@@ -11,4 +11,7 @@ package colorobserver;
  */
 public class prueba {
     
+    public void carga(){
+        
+    }
 }
